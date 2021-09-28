@@ -3,4 +3,4 @@ sistema de gerenciamentto de uma livraria para cadastro de livros e ordenação 
 	- Subgênero
 	- Título
 	
-	
+projeto realizado na plataforma jupyter notebook						
